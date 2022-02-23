@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of that incomparable lady the Honourable the Lady Mary Armyne by J.D., M.A. With an epistle and elegy by two grave divines.</title>
+            <author>J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37256</idno>
+            <idno type="STC">Wing D43</idno>
+            <idno type="STC">ESTC R27883</idno>
+            <idno type="EEBO-CITATION">10261284</idno>
+            <idno type="OCLC">ocm 10261284</idno>
+            <idno type="VID">44727</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1381:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of that incomparable lady the Honourable the Lady Mary Armyne by J.D., M.A. With an epistle and elegy by two grave divines.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>[17], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nevil Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armine, Mary, --  Lady, d. 1676.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44727:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at the FUNERAL Of that incomparable Lady, the Honourable, the Lady <hi>MARY ARMYNE.</hi>
+            </p>
+            <p>By <hi>J. D.</hi> M. A.</p>
+            <p>With an <hi>Epiſtle,</hi> and <hi>Elegy,</hi> by two <hi>Grave Divines.</hi>
+            </p>
+            <p>
+               <hi>Sancti ſunt honorandi propter imitationem.</hi> —Whoſe Faith Follow.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nevil Simmons</hi> at the <hi>Princes Arms</hi> in St. <hi>Pauls Church-yard,</hi> 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44727:2"/>
+            <pb facs="tcp:44727:2"/>
+            <head>TO THE HONO<g ref="char:V">Ʋ</g>RABLE, William Pierreponte <abbr>Eſq</abbr>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Do not trouble you with theſe Lines to flatter you, your high me<g ref="char:EOLhyphen"/>rits and just and numerous Praiſes raiſe you above the reach of that uſual indeavour of ſelf-ſeeking; But to pre<g ref="char:EOLhyphen"/>ſent you with thoſe things which re<g ref="char:EOLhyphen"/>ceived being at first, and now pub<g ref="char:EOLhyphen"/>liſhing by you deſires, as alſo to leave in your Hand ſome few ſhort Remarks of the many large Excellen<g ref="char:EOLhyphen"/>cies
+<pb facs="tcp:44727:3"/>of a near Relation of your own, whom (I know) your Nature and Conſcience will invite you to imitate. What I here offer to your peruſal, stands in great need of your candour, becauſe it was drawn up under great diſcompoſure of mind, the reaſon of which you will eaſily geſs. That you may cloſe the world as your deareſt Aunt did, that is, full of days, Peace, and Honour, <hi>&amp;c.</hi> is the most hearty Prayer of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Honours great Admirer, and moſt Humble Servant J. D.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44727:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>AS Hiſtorians do freely divulge the crimes and ſhame, even of Princes when they are dead, whom yet men are bound for the ſake of their Office, and the Govern<g ref="char:EOLhyphen"/>ment of the world, to honour while they live, and (if it may be) to conceal their faults, that contempt diſ<g ref="char:EOLhyphen"/>able them not, to the detriment of the Republick; ſo I take it to be a great duty to tranſmit the examples of holy and worthy perſons to poſterity, and to pub<g ref="char:EOLhyphen"/>liſh their juſt praiſes, eſpecially to a world which is inclined to miſ-underſtand, and vilifie and abuſe ſuch, whom they muſt imitate if ever they will partake of their felicity: For God who will have the names of the wicked to rot, will have the memory of the juſt to be bleſſed. Their praiſe is more Gods praiſe than theirs: The common and dangerous ſin of Pride, will ſo readily feed upon imprudent commendations, that we muſt be very cautelous how we ſo tempt the living: But the dead are out of the reach of ſuch temptation: Yet even the living that honour God muſt be honoured by men, and ſhall be honoured by
+<pb facs="tcp:44727:4"/>God: But we muſt praiſe them most behind their backs.</p>
+            <p>Much of the work of <hi>God</hi> and of the <hi>Devil</hi> in the world, is carryed on by <hi>Praiſing</hi> or <hi>Diſpraiſing</hi> perſons: God ſpeaketh ſo highly of his ſanctified people, and giveth them ſuch honourable names, as we durſt never have done, if he had not gone be<g ref="char:EOLhyphen"/>fore us in it: What greater things can be ſpoken of them here, than that they are his <hi>choſen</hi> and <hi>peculiar treaſure,</hi> his <hi>jewels,</hi> the apple of his eye, the belo<g ref="char:EOLhyphen"/>ved of his ſoul, his ſervants, his friends, the mem<g ref="char:EOLhyphen"/>bers of his Son, his children, and the heirs of life, yea and coheirs with Jeſus Chriſt, and that he is their Father and their God, <hi>&amp;c.</hi> Yet doth he know more faults in them than we do, and hateth thoſe faults much more than we. But he better knoweth the ex<g ref="char:EOLhyphen"/>cellency of his Graces and Image, and their relation to Christ, and what he will make them hereafter in Glory? He that ſent his Son to bring home wandring ſinners to himſelf, and to redeem them from iniquity and make them a peculiar people, zealous of good works, a holy nation, a royal Prieſthood, or a King<g ref="char:EOLhyphen"/>dom of Priests to offer him ſacrifices acceptable through Christ, he that hath written a holy Law, to make them holy, and maketh it the work of his ſpirit to ſanctifie them, will certainly be glorified in their holineſs: To this end the light of their good works muſt ſhine before men, <hi>Matth. 5.16.</hi> though no oſten<g ref="char:EOLhyphen"/>tation must be made for their own glory. And though they diſhonour themſelves, and diſpleaſe him, by their manifold imperfections, yet he that waſheth them
+<pb facs="tcp:44727:4"/>in his blood, will come at last with thouſands of his Angels to be glorified in his Saints, and admired in all them that do believe, and will preſent them with<g ref="char:EOLhyphen"/>out ſpot or blemiſh to his Father, <hi>Epheſ. 5. 2 Theſ. 1.9, 10, 11.</hi>
+            </p>
+            <p>The due praiſes of the holy heirs of life, and the notice of their certain difference from the ungodly world, is a matter of grand importance to mankind: Who can believe elſe that God is holy, and a lover of goodneſs, and the righteous Governour of the World? Who can believe that Chriſt is the Saviour of ſouls, if he ſave them not from their ſins? <hi>Matth. 1.21.</hi> Or that he is the true Phyſician, if he do not heal men, or that he is any better than <hi>Philoſophers</hi> or common <hi>Teachers,</hi> if he make his truest followers no better? Who can believe that there is a ſanctifying Spirit if none be ſanctified by him? And who can believe that there is any heavenly Glory to be hoped for, if there be none that by a heavenly mind and converſation are prepared for it? For I know not whether the <hi>Sad<g ref="char:EOLhyphen"/>ducee</hi> that believeth not <hi>any future glory, do</hi> err more groſly than they that think that <hi>all,</hi> even <hi>un<g ref="char:EOLhyphen"/>goldy ſinners</hi> ſhall poſſeſs it.</p>
+            <p>Let unbelievers hear of never ſo holy a Law, if they ſee not alſo a <hi>holy people,</hi> they will think it is but a Romance or Fancy, and deſcribeth but an <hi>Utopia</hi> or City in the Sun. And if the ungodly ſee non much better than themſelves, they must needs believe ei<g ref="char:EOLhyphen"/>ther that there is no ſalvation, or that they ſhall be ſaved notwitſtanding all their wickedneſs.</p>
+            <p>The <hi>holy Scriptures</hi> are perfecter in <hi>their kind</hi>
+               <pb facs="tcp:44727:5"/>than the holieſt men on earth; for they are free from <hi>culpable errours</hi> and <hi>defects:</hi> But Gods Image on <hi>his Saints</hi> is of a <hi>nobler kind,</hi> than that which is in the Scriptures; for it is a <hi>living word</hi> and <hi>Image:</hi> It is <hi>holy Life, and Light, and Love,</hi> which the Scripture (in it ſelf a ſeal or dead Letter) was indtied to effect: And the end is better than the means as ſuch.</p>
+            <p>The Devil knowing this, doth labour above all, if it may be, to keep men without this <hi>Image</hi> of God; If not, to blot and blemiſh it, by mens folly, errours and miſcarriages; or if that may not be, to hide it by ſlanders and the reproach of wicked lying tongues; for by ſo doing his malice doth many waies at<g ref="char:EOLhyphen"/>tain its ends: He robbeth God of the Glory of his Grace (and it is God that he moſt maligneth): And diſhonoureth Chriſt and his Goſpel and true Religion: He tempteth the world into the damning ſin of malig<g ref="char:EOLhyphen"/>nant calumny and perſecution: And he injureth Gods ſervants in their due reputation: But chiefly he there<g ref="char:EOLhyphen"/>by deterreth the ignorant from a holy life, and keep<g ref="char:EOLhyphen"/>eth them quiet in a ſtate of ſin, and a worldly life, as thinking that indeed there is no better.</p>
+            <p>And there are ſcarce any in the world that wrong God more, than they that rob him of the Glory of his ſervants real holineſs. That is, <hi>1.</hi> They that live wickedly, or no better than Infidels, while they profeſs the Chriſtian Faith. <hi>2.</hi> They that by falſe accuſations would make the beſt men ſeem the worſt, and make ſerious Religion ſuſpected to be but hu<g ref="char:EOLhyphen"/>morous ſingularity and hypocriſie, and who upon ly<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:44727:5"/>fame will vend any calumny againſt the innocent; and that upon worldly intereſt and the advantage of civil diſcords will injuriouſly make good men odious to their Superiours, and the Rulers of the World. <hi>3.</hi> Yea and thoſe that while they pretend to the ſtricteſt religiouſneſs, do maculate that profeſſion with ſcan<g ref="char:EOLhyphen"/>dalous practices, with pride and ſelf-conceit, with perverſe opinions, and with ſuch miſcarriages and follies as tend to perſwade the unbelieving world, that Chriſtians are as bad and contemptible as any other men.</p>
+            <p>Chriſt himſelf teacheth men, as to know the thorns and thiſtles by their pricks and rending property, and the wolves in ſheeps cloathing, by their <hi>devouring of his Flocks,</hi> (for thoſe are <hi>the fruits</hi> to which he doth refer us) ſo to know the <hi>Vine</hi> and the <hi>Fig-tree</hi> alſo by <hi>their fruits,</hi> and his Diſciples by their extraordi<g ref="char:EOLhyphen"/>nary love to one another (and to all men.) And to tell unbelievers that Chriſtians are <hi>holy, ſelf-deny<g ref="char:EOLhyphen"/>ing, loving, humble, heavenly</hi> perſons, when they ſee no ſuch thing appearing in their converſe, yea when they commonly ſee the contrary, will ſeem more incre<g ref="char:EOLhyphen"/>dible to them, than to tell them of Saints in the unſeen world, where ſuch perſons <hi>may be</hi> for ought they know, though they take inviſible things to be uncer<g ref="char:EOLhyphen"/>tain. And if Chriſtianity made no greater a change upon mans ſoul, than to bring men to a lifeleſs un<g ref="char:EOLhyphen"/>effectual formality, and to paint over a fleſhly, worldly life with a few good words, and to differ from Phi<g ref="char:EOLhyphen"/>loſophers no further than ſome Learned Divines them<g ref="char:EOLhyphen"/>ſelves do, that is, not in their holy <hi>Love, obedi<g ref="char:EOLhyphen"/>ence,
+<pb facs="tcp:44727:6"/>humility, patience, hope</hi> and <hi>joy,</hi> but in their <hi>opinions</hi> and <hi>words,</hi> in going to Church and ſaying their Prayers, and keeping up their ſeveral forms and orders, and contending fiercely for their ſeveral Sects, I could not my ſelf, be heartily a Chri<g ref="char:EOLhyphen"/>ſtian. The Kingdom of God is not in <hi>Word</hi> but in <hi>Power,</hi> and it is not <hi>meats</hi> and <hi>daies</hi> and <hi>ceremo<g ref="char:EOLhyphen"/>nies,</hi> but <hi>Righteouſneſs and Peace and joy in the Holy Ghoſt: And he that in theſe things ſerveth Chriſt, is acceptable to God and approved of men</hi> (except they be <hi>Tyrants, Sectaries,</hi> or <hi>malig<g ref="char:EOLhyphen"/>nant.</hi>)</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon theſe accounts I take it to be a real part of his Maſters ſervice, which this Reverend Brother hath here performed, in tranſmitting to poſterity ſo much of the exemplary Life of this excellent Lady in her deſerved praiſe: And as it is ſaid of <hi>Antonine,</hi> that it is the top of all his Praiſes, that while a multitude of Writers, Heathen and Christian, deſcribed his great virtues, no one was found that contradicted them, and ſpake againſt him: So I think our Brothers work (here undertaken) is ſuch as is like to meet with no gainſayers, nor need he fear least any ſhould caſt any blots upon the pourtraiture which he hath drawn. Thoſe of us, who are called publickly to militate a<g ref="char:EOLhyphen"/>gainſt the errors and wickedneſs of the world, muſt expect to have as many defame, calumniate and re<g ref="char:EOLhyphen"/>proach us, as to praiſe us: But ſuch perſons as are placed in a calmer Region, and are called to ſerve God in a leſs-militant way, and that with the advan<g ref="char:EOLhyphen"/>tage of <hi>Wealth</hi> and <hi>Honour,</hi> do uſe more to eſcape
+<pb facs="tcp:44727:6"/>the ſcourge of tongues. Indeed the Life of this Lady was ſuch, as of it ſelf without any ſuch advantage, might have <hi>ſilenced</hi> or <hi>ſhamed</hi> obtrectation. I re<g ref="char:EOLhyphen"/>member not, that ever I heard any perſon ſpeak a word to her reproach. And though I was ſeldom with her my ſelf; yet theſe laſt fifteen years I lived ſo near her, as that I might eaſily hear the voice of fame: and that little converſe which I had with her was ſuch, as gave me opportunity to know her more intimately, than many that ſaw but her blameleſs and pious Con<g ref="char:EOLhyphen"/>verſation. For her buſineſs with me was no other, than to open the ſtate of her ſoul, and confeſs her infirmities, and produce her evidences for Heaven, and to deſire my judgement of them, with my Coun<g ref="char:EOLhyphen"/>ſel for her further ſtrength and comfort; and to ask my adviſe concerning ſuch works of publick good which ſhe Charitably intended, and liberally (as I am well informed) did perform. By which I perceived that ſhe had a ſafe and well ſetled ſtate of ſoul, not free from all degrees of fear, and leſſer doubtings of her ſelf; (and far from a preſumptuous unhumbled ſelf-juſtifying.) But her evidences were <hi>ſound,</hi> and her diſcerning of them was ſo clear and ſure, as en<g ref="char:EOLhyphen"/>abled her to conclude her Right to Life, and with the greater peace to think of Death, which as ſhe had opened to me not long before, ſo did ſhe over again at large, in her ſickneſs, not many dayes before her death, when after her complaints for ſuch imperfections of grace, as were her trouble, ſhe profeſſed the full dedi<g ref="char:EOLhyphen"/>cation of her ſelf to God, her firm conſent to the terms of his Covenant, and her longings after perfect ho<g ref="char:EOLhyphen"/>lineſs,
+<pb facs="tcp:44727:7"/>and her truſt in the merits and mediation of her Redeemer. After this we were in hope for a day or two that ſhe was like to be recovered; But hearing of my troubles, ſhe ſent her ſervant to me to enquire of my Caſe, and was dead before he returned home.</p>
+            <p>But as ſhe lived to God, ſo God gave her a long life, and full of mercies: Though ſhe had long been trou<g ref="char:EOLhyphen"/>bled with a ſore and dangerous diſeaſe, which had painful and perillous paroxyſmes or critical fits.
+<note n="*" place="margin">Stones void<g ref="char:EOLhyphen"/>ed by the in<g ref="char:EOLhyphen"/>teſtines, ſup<g ref="char:EOLhyphen"/>poſed to be from the Gall.</note> God had in her later years given her great eaſe from it, (though it is not unlike that it was the root of that fainting aguiſhneſs which took her hence:) So that to near fourſcore years of age, ſhe ſerved God in com<g ref="char:EOLhyphen"/>petent health, and ſerenity of mind.</p>
+            <p>Though ſhe ſprang from an Honourable Family en<g ref="char:EOLhyphen"/>clined to the Roman Sect, God was her Teacher, and did confirm her not only in the <hi>Proteſtant Refor<g ref="char:EOLhyphen"/>mation,</hi> but alſo in the true Love of <hi>Practice</hi> and <hi>ſe<g ref="char:EOLhyphen"/>riouſneſs</hi> in the Religion which ſhe profeſſed: ſhe was not like thoſe deluded formalists, who contend moſt furiouſly for <hi>this</hi> Religion againſt <hi>that,</hi> or for <hi>that</hi> against <hi>this,</hi> while indeed they are of <hi>none:</hi> and that will be zealous <hi>Papiſts,</hi> or zealous <hi>Proteſtants,</hi> or zealous in more ſingular Sects, but will never be perſwaded to be <hi>zealous Chriſtians;</hi> who will furi<g ref="char:EOLhyphen"/>ouſly perſecute or at leaſt reproach thoſe, that are not of their <hi>Church,</hi> or <hi>ſide,</hi> or <hi>way,</hi> as erroneous, irre<g ref="char:EOLhyphen"/>ligious perſons, while nothing can prevail with them to be themſelves on <hi>Chriſts ſide</hi> against the fleſh, the world and the Devil; who are implacably hot for their ſeveral parties and opinions, but as to a heavenly
+<pb facs="tcp:44727:7"/>mind and life, and Love, and good works, and hu<g ref="char:EOLhyphen"/>mility, and ſelf-denyal, they are mortally cold; who fiercely contend for the Baptiſmal water, and the Christian veſtments, ornaments and name, while they inwardly fight againſt the word and ſpirit of Chriſt, or live till they are old before they truly know what the Baptiſmal Covenant is, and <hi>to</hi> what, and <hi>for</hi> what it doth engage them. She was not addicted to <hi>Sects</hi> or <hi>novelties,</hi> on pretence of riſing to the higheſt form: But ſhe truly took the height of her Religiouſneſs to conſist in the height of <hi>Love to God and man,</hi> and in <hi>cloſe and conſtant obedience to Chriſt,</hi> and <hi>confidence</hi> in his <hi>mediation.</hi> And they that do ſo with all their hearts ſhall have a ſound and durable conſolation, which will bear them up in life and death, when the <hi>formal,</hi> the <hi>Dogmatical,</hi> and the <hi>ſuperſtitious</hi> Hypocrite hath a comfort which li<g ref="char:EOLhyphen"/>veth and dieth with his proſperity, or which is heart<g ref="char:EOLhyphen"/>leſs and deluſory, as living but on the flattery of his <hi>party,</hi> or of <hi>himſelf.</hi> Though according to her rank, ſhe lived in the decency of a plentiful eſtate, it was with humility and lowlineſs of mind; Her Prudence, So<g ref="char:EOLhyphen"/>briety and Gravity were very exemplary; and her impartiality in loving all that were truly Chriſtians (and their diviſions, and wrangling contentions ſhe was much against:) ſhe was not of their mind who take it to be a mark of Christs Diſciples, to be accu<g ref="char:EOLhyphen"/>ſers of the Brethren, and to reproach and vilifie and perſecute his Diſciples, and <hi>deny</hi> them to be <hi>His,</hi> that they may do it with leſs diſhonour and remorſe. She took it to be no countenancing of Schiſm (as ſome
+<pb facs="tcp:44727:8"/>account it) to relieve ſuch ſervants of Chriſt in their diſtreſs, as men accuſe and afflict as Schiſmaticks, though ſhe was an adverſary to real Schiſme. When ſhe firſt heard of eighteen hundred Miniſters ejected and ſilenced <hi>1662,</hi> ſhe gave a conſiderable ſumme towards the relief of ſome of them, (which I was acquainted with, though I ſaw it not.) And the good works which ſhe did before her departure, I hope will Live and declare themſelves, and be an encourage<g ref="char:EOLhyphen"/>ment to others that are truſted with Riches, to follow ſuch examples, and <hi>make themſelves friends</hi> of that which to the worldling is the <hi>Mammon of unrighte<g ref="char:EOLhyphen"/>ouſneſs.</hi>
+            </p>
+            <p>It is a confirming evidence of the truth of Gods promiſes, and the goodneſs of a holy life, which I have obſerved in many, who have <hi>lived to a great age</hi> in <hi>conſtant uprightneſs</hi> and <hi>ſerious Religion:</hi> I have met with few young Chriſtians that are like them, in a peaceable mellowneſs of temper, and an honeſt plain<g ref="char:EOLhyphen"/>neſs in Religion, moſt like to the deſcription of the Primitive Christians, and a readineſs and willing<g ref="char:EOLhyphen"/>neſs to be with Chriſt: I have known many in a health<g ref="char:EOLhyphen"/>ful ſtate of <hi>very old age,</hi> who having lived in exem<g ref="char:EOLhyphen"/>plary piety and blameleſneſs of life, have many years <hi>longed</hi> to <hi>be diſſolved and to be with Chriſt,</hi> not by any pain or miſery in the fleſh, but from better Cau<g ref="char:EOLhyphen"/>ſes, I ſuppoſe from all theſe three together; <hi>1.</hi> From <hi>Gods rewarding Grace,</hi> who even in this life doth oft give perſons of long and great fidelity, an encou<g ref="char:EOLhyphen"/>raging, inviting <hi>foretaſt</hi> of Heaven: And <hi>2.</hi> from the <hi>ripeneſs of Grace:</hi> And <hi>3.</hi> ſomewhat from the <hi>ripe<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:44727:8"/>of Nature,</hi> which all make ſuch Christians to be like ripe and mellow fruit, which needeth not much ſhaking, but eaſily drops into the owners hand.</p>
+            <p>O that more Christians did well conſider, how much of true Religion conſiſteth in a true cheerfull readineſs to die, and in living by Faith, and Hope, and Love, above the Love of this Life and world, and all the preſent intereſts of the Body! They would then better lay out their thoughts, labour and time, and live and die in ſolid peace, more anſwerable to their holy pro<g ref="char:EOLhyphen"/>feſſion than moſt do, ſuch a <hi>Faith,</hi> as will cauſe men to <hi>Live and Die to God in Chriſt,</hi> will juſtifie, and comfort and ſave the ſoul; when many that ſuppoſe themſelves more <hi>wiſe</hi> and <hi>Orthodox</hi> than others, and think that they better pleaſe God and honour Chriſt, by their ſeveral <hi>Notions, Words</hi> and <hi>Forms,</hi> which they account <hi>Evangelical Knowledge of godlineſs,</hi> and take themſelves for the happy <hi>defenders and the Truth,</hi> and adverſaries to other mens <hi>dangerous errors;</hi> will find ere long that the ſincerity and worth of <hi>knowledge</hi> and <hi>Belief</hi> are to be judged of by the meaſures of that <hi>Love</hi> and <hi>Holineſs</hi> which they cauſe; and that he that hath the moſt <hi>Love</hi> to <hi>God</hi> and <hi>man,</hi> and the moſt fruitfull life, and the most heavenly deſires and hopes and comforts, and the most ſound and joyfull preparations for his change, hath the <hi>beſt knowledge</hi> and <hi>Belief,</hi> and is the moſt Religious perſon, and of the highest form, <hi>1</hi> Cor. <hi>8.1, 2, 3. We all have knowledge</hi> (and ſome that call their Brethren Ignorant or erroneous have no more than others:) <hi>Knowledge puffeth up,
+<pb facs="tcp:44727:9"/>but Charity edifyeth: And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know: But if any man Love God the ſame is known of him.</hi>
+            </p>
+            <p>To live as this excellent Lady did, in <hi>gravity, pru<g ref="char:EOLhyphen"/>dence, humility, temperance,</hi> in a <hi>Charitable, peaceable, impartial Religiouſneſs, ſtudying Re<g ref="char:EOLhyphen"/>alities,</hi> even <hi>God,</hi> and her <hi>Redeemer, Grace</hi> and <hi>Glory,</hi> and <hi>her own Heart</hi> and <hi>Duty,</hi> and <hi>how to do good, and to prepare for the day of her ac<g ref="char:EOLhyphen"/>counts,</hi> will prove more ſafe and comfortable at the last, than the proud, wrathfull, turbulent Religion of ſuch as ſtrive to ſet up the <hi>CHURCH</hi> and <hi>CHRIST</hi> (they mean <hi>THEMSELVES</hi>) by <hi>Perſecution</hi> or <hi>Diviſion,</hi> by <hi>hurting</hi> or <hi>deſtroying</hi> their fellow-Christians, or <hi>reproaching them,</hi> and <hi>avoiding them</hi> as unworthy of their Communion: That I and all Christians may live in <hi>the Wiſdom from above,</hi> which is <hi>Pure and Peaceable,</hi> and may eſcape the <hi>infernal wiſdom,</hi> (or religion) which is <hi>earthly, ſenſual</hi> and <hi>calumniating,</hi> and may <hi>be followers of them,</hi> who <hi>through faith</hi> and <hi>patience do inhe<g ref="char:EOLhyphen"/>rit</hi> the <hi>promiſe,</hi> is the daily Prayer of</p>
+            <closer>
+               <signed>An unworthy ſinner, RICHARD BAXTER.</signed>
+               <dateline>
+                  <date>Sept. 22. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:44727:9"/>
+            <head>Upon the much-lamented Death of the truly <hi>HONO<g ref="char:V">Ʋ</g>RABLE,</hi> very aged, and ſingularly pious Lady, the Lady <hi>Mary Armine.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>MARIE ARMINE</hi>
+               </l>
+               <l>Anagram.</l>
+               <l>
+                  <hi>Rare mine I am.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For <hi>Piety, Charity, Humility,</hi> and for <hi>Birth,</hi>
+               </l>
+               <l>Matchleſs, Magnificent, Rare, Noble was <hi>this earth;</hi>
+               </l>
+               <l>
+                  <hi>Virtues,</hi> and <hi>Graces</hi> Treaſure! what e're became</l>
+               <l>True <hi>Saint,</hi> ſhe was; might ſay, <hi>Rare mine I am. J.S.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mary Armine.</hi>
+               </l>
+               <l>Anagram.</l>
+               <l>
+                  <hi>Ar mine Army.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>HAil Mary full of Grace, 'bove women bleſt;</hi>
+               </l>
+               <l>A <hi>Name</hi> more rich in Saints than all the reſt;</l>
+               <l>An <hi>Army</hi> of them fam'd in ſacred Story,</l>
+               <l>All good, none bad, an unparallel'd Glory!</l>
+               <l>The Bleſſed <hi>Virgin</hi> well may lead the van</l>
+               <l>Next follows <hi>Mary</hi> the <hi>Bethanian,</hi>
+               </l>
+               <l>Next <hi>Mary</hi> Wife of <hi>Cleophas;</hi> Another</l>
+               <l>
+                  <hi>Mary</hi> was of <hi>James</hi> and <hi>Joſes</hi> Mother:</l>
+               <pb facs="tcp:44727:10"/>
+               <l>How much is ſpoke of <hi>Mary Magdalen?</hi>
+               </l>
+               <l>Of <hi>Mary</hi> St. <hi>Marks</hi> Mother we read agen:</l>
+               <l>At <hi>Rome</hi> a <hi>Mary</hi> commended by St. <hi>Paul;</hi>
+               </l>
+               <l>
+                  <hi>All Saints; yet not to pray unto at all.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Mary</hi> was the <hi>Mother</hi> of our <hi>Lord;</hi>
+               </l>
+               <l>A <hi>Mary</hi> 'twas laid up in heart <hi>his word.</hi>
+               </l>
+               <l>A <hi>Mary</hi> 'twas that choſe the <hi>better Part.</hi>
+               </l>
+               <l>A <hi>Mary</hi> 'twas that wept with <hi>broken heart.</hi>
+               </l>
+               <l>A <hi>Mary</hi> 'twas that did anoint <hi>Chriſt</hi>'s feet;</l>
+               <l>A <hi>Mary</hi> pour'd on's <hi>Head</hi> the <hi>Spicknard</hi> ſweet.</l>
+               <l>At <hi>Chriſts</hi> Croſs ſtanding <hi>Maries</hi> three I find,</l>
+               <l>When others fled <hi>they</hi> were not ſo unkind.</l>
+               <l>
+                  <hi>Chriſt</hi> dead, interr'd, at the Sepulchre door</l>
+               <l>Two <hi>Maries</hi> ſtand, I find no <hi>women</hi> more.</l>
+            </lg>
+            <lg>
+               <l>So that from <hi>Cradle</hi> to the <hi>Paſſion,</hi>
+               </l>
+               <l>From <hi>Paſſion</hi> to the <hi>Reſurrection,</hi>
+               </l>
+               <l>From <hi>Reſurrection</hi> to the <hi>Aſcention,</hi>
+               </l>
+               <l>Obſerve you may a <hi>Mary</hi> ſtill was <hi>one.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Army</hi> of ſuch Ladies ſo Divine,</l>
+               <l>This Lady ſaid I'le follow, they all <hi>Ar-mine</hi>
+               </l>
+               <l>
+                  <hi>Lady Elect!</hi> In whom there did combine</l>
+               <l>So <hi>many Maries,</hi> might'ſt ſay <hi>All Ar mine.</hi>
+               </l>
+               <l>Thou <hi>Mother, Siſter, Spouſe,</hi> waſt of the <hi>Lord,</hi>
+               </l>
+               <l>In that in <hi>Heart</hi> and <hi>Life</hi> thou kept his <hi>word.</hi>
+               </l>
+               <l>With th'other <hi>Mary</hi> choſe the <hi>better Part;</hi>
+               </l>
+               <l>With <hi>Mary Magd'len</hi> hadſt a moſt tender Heart.</l>
+               <l>On Chriſt a <hi>Mary</hi> ſpent all that ſhe could;</l>
+               <l>Though others grudg'd, more if ſhe had ſhe would.</l>
+               <pb facs="tcp:44727:10"/>
+               <l>To th' <hi>Head</hi> above couldſt not, o'th' <hi>Feet</hi> below,</l>
+               <l>Thou didſt not ſpare much coſt for to beſtow.</l>
+               <l>Thy <hi>name, a precious Ointment, and the Armies</hi>
+               </l>
+               <l>Of <hi>Saints</hi> and <hi>Angels</hi> are the Lady <hi>Armines.</hi>
+               </l>
+               <l>Now <hi>God</hi> and <hi>Chriſt ar thine,</hi> and whats Divine</l>
+               <l>In Heav'ns-enjoyment. <hi>Bleſt ſoul!</hi> now <hi>all ar thine.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J. Sheffield.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:44727:11"/>
+            <pb n="1" facs="tcp:44727:11"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 5.1.</hi>
+                  </bibl>
+                  <p>For we know, that if our earthly houſe of this tabernacle were diſſolved, we have a building of God, an houſe not made with hands, eternal in the heavens.</p>
+               </q>
+            </epigraph>
+            <p>Funeral Sermons derive their Original from Primitive times, and are of a pious de<g ref="char:EOLhyphen"/>ſign, to affect the Heart by the ear with a ſenſe of Death and Judgement;
+<note place="margin">Eccleſ. 7.1.</note> and ſo raiſe the ſoul above the world, above ſenſe and fleſh; which things I ſhall attempt from the double Text before me, <hi>viz.</hi> This I have read, and that which is the occaſion of it, The Honourable Lady whoſe interment we attend.</p>
+            <p>In this Text we have three general Parts; 1. <hi>A Suppoſition.</hi> [<hi>If our earthly houſe of this Tabernacle were diſſolved.</hi>]— 1. This ſuppoſition contains—it. A deſcription of the preſent world<g ref="char:EOLhyphen"/>ly tenement in which the ſoul dwells, which is a poor mean thing, in theſe words [<hi>our earthly houſe
+<pb n="2" facs="tcp:44727:12"/>of this tabernacle</hi>] What meanneſs theſe words im<g ref="char:EOLhyphen"/>port you ſhall ſee preſently.— 2. An intimation of the downfall of this Tenement; this clay-houſe will inevitably e're long tumble down into the duſt, as we ſee by theſe words [<hi>were diſſolved</hi>] —Now, this ſuppoſal would be very grievous, if not followed with that which is able to render it much more eligible and pleaſing <hi>viz.</hi>
+            </p>
+            <p n="2">2. <hi>A Propoſition,</hi> [<hi>We have a building of God, an houſe not made with hands, eternal in the hea<g ref="char:EOLhyphen"/>vens.</hi>] — Here alſo we have two things: — 1. The deſcription of the ſouls glorious houſe in the other world, and that is very magnificent: <hi>viz.</hi> [<hi>a building of God, a houſe not made with hands.</hi>] How tranſcendent this is you ſhall ſee by and by, when I come to open the termes of it. — 2. The duration of this dwelling, it's to be [<hi>eternal in the heavens.</hi>]</p>
+            <p n="3">3. You have <hi>The certainty</hi> of theſe things laid down, in theſe words [<hi>we know.</hi>] 'Tis not a plea<g ref="char:EOLhyphen"/>ſing juggle, nor a cunning deviſed Fable, but a thing that we know to be true.</p>
+            <p>From theſe words, I ſhall only give you two Obſervations or Concluſions; though I could eaſily give you ſeveral others.</p>
+            <p n="1">1. <hi>Its certain that the ſouls of men have their various habitations.</hi>
+            </p>
+            <p n="2">2. <hi>That the ſouls of true Saints have a more glorious and magnificent habitation in the other world.</hi>
+            </p>
+            <pb n="3" facs="tcp:44727:12"/>
+            <p>Firſt Concluſion is,</p>
+            <p>
+               <hi>Its certain that the ſouls of men have their various habitations.</hi>
+            </p>
+            <p>One ſort of them is in time, to wit, the dying bodies of men; in the Text called [<hi>earthly houſes</hi>] in the Book of <hi>Job</hi> called Houſes of clay,
+<note place="margin">Job 4.19.</note> whoſe foundations are in the duſt. Theſe are the <hi>Winter Houſes,</hi> where men undergo all the ſtorms and bit<g ref="char:EOLhyphen"/>ter blaſts of the preſent world; Theſe ſtand on the lower ground, in the vale among mire and dirt; all you that hear me grant this, or elſe you neither know where you are, nor what you are.</p>
+            <p>Another ſort of them is in eternity, <hi>i. e.</hi> either in Heaven or in Hell. That the ſouls of all men when they leave the body make a remove to one of theſe two places, hath been the ſtrong and har<g ref="char:EOLhyphen"/>monious belief of the moſt men that ever lived in the world, and is often and plainly affirmed in the indiſputable Oracles of God.— Theſe Habitati<g ref="char:EOLhyphen"/>ons of ſouls (which have left their houſes of clay) are, I ſay, either in Heaven or in Hell; If in Hell, Oh how woful and lamentable they are! If in Heaven, Oh how happy and bleſſed beyond all deſcribing and compariſon! The ſole inſtance of <hi>Dives</hi> and <hi>Lazarus</hi> doth competently illuſtrate theſe things, <hi>Luk.</hi> 16.25.</p>
+            <p>The certainty of theſe things appears from the Apoſtles ſaying, [<hi>we know</hi>] that is, we know that theſe things are true; we have a full underſtand<g ref="char:EOLhyphen"/>ing and ſatisfaction, that there is a great reality in what we ſay. This term of [knowing] often goes
+<pb n="4" facs="tcp:44727:13"/>for infallibility and certainty in Scripture dialect. —So that it appears plainly that the ſouls of men have their various habitations.</p>
+            <p>Well, then be ſure you looſe not your better Habitations for your ſouls in the happy world, by over pampering thoſe they dwell in at preſent. As ſome looſe their bodies for their eſtates, ſo others looſe their Heaven for their bodies;
+<note place="margin">Rom. 13. cloſ. Mat. 16.26.</note> and like the brutiſh <hi>Cardinal</hi> prefer their part in <hi>Paris</hi> to that in <hi>Paradiſe.</hi>
+            </p>
+            <p>Again, If the ſoul have variety of habitations, then be ſure you lay out the greateſt pains and coſt on that which is the moſt worthy, and will continue longeſt,
+<note place="margin">Eccleſ. 12.5.</note> and that is, <hi>the houſe in the o<g ref="char:EOLhyphen"/>ther world.</hi> You are a going preſently to remove to your long home, where you muſt abide for a long ſeaſon, a very long-long time; Oh then be ſure you be beſt provided for it! Alas, what will become of them that muſt dwell with everlaſting ſorrows? that muſt remove from a bed of down, to one of thorns and vipers ſtings! from a ſweet air, to ſtinking ſmells! From ſumptuous fare, to feed on agonies of Conſcience and flames of di<g ref="char:EOLhyphen"/>vine wrath! from great attendance, to be made eternal ſlaves to ugly devils! Oh what mad and infatuated ſouls that forget thoſe houſes from whence they muſt never remove, and yet fondly humour thoſe that muſt preſently be left behind? Now, its moſt certain, when men have ſaid what the pleaſe to the contrary,
+<note place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk. 16.19, 24, 25. &amp; 12.18, 19.</note> (for their lives con<g ref="char:EOLhyphen"/>fute them to their faces) that they prize their bo<g ref="char:EOLhyphen"/>dies
+<pb n="5" facs="tcp:44727:13"/>above their eternity in heaven; this <hi>ſilly clay houſe</hi> above that <hi>building of God,</hi> which is with<g ref="char:EOLhyphen"/>out end in glory.</p>
+            <p>Second Concluſion, is,</p>
+            <p>
+               <hi>That the ſouls of true Saints have a more glorious and magniſicent habitation in the other world.</hi>
+            </p>
+            <p>This I'le firſt Illuſtrate, then Apply.</p>
+            <p n="1">1. For Illuſtration; I'le endeavour to make this truth ſhine by that rare light which I'le let in upon you from the words of my Text; and here I'le gloſs upon the ſeveral termes, keeping cloſe to the Apoſtles Metaphorical manner of ſpeech: that the matter may appear, as really it is, more lofty and high, and ſo be made more winning and taking to your ſouls, that they may more importunately de<g ref="char:EOLhyphen"/>ſire and indeavour after an intereſt in this more magnificent Habitation in the other world.</p>
+            <p>That the ſouls of true Saints have ſuch an habi<g ref="char:EOLhyphen"/>tation there; will be illuſtrated by conſidering, Firſt, What their habitation is in this world. Secondly, What it is in the future; for when we have compared them one with the other, you may eaſily ſee whether is the more magnificent.</p>
+            <p>Firſt, We'l conſider what their habitation is in the <hi>preſent world;</hi> and that the Apoſtle tells you in the firſt part of my Text, is, [<hi>An earthly houſe, a tabernacle, which is to be diſſolved.</hi>]</p>
+            <p n="1">1. As to the <hi>material,</hi> Its an earthly houſe; <hi>i. e.</hi> A poor ſorry Cottage, patched up of a little ſlime and mud; an houſe made up of a bag full of
+<pb n="6" facs="tcp:44727:14"/>bones, and dawbed up with a little rotting con<g ref="char:EOLhyphen"/>ſuming fleſh; a moving clod of earth, and a little dung finely waſhed over. An earthly houſe as coming from, and going to the earth: Duſt thou art,
+<note place="margin">Gen. 3.19. Eccleſ. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</note> and unto duſt thou ſhalt return, is more than once affirmed of the body in the holy Text. Oh what a ſilly thing is this clay-houſe! a diſeaſe or a diſcontent makes the rareſt beauty very defor<g ref="char:EOLhyphen"/>med; as you ſee in the caſe of <hi>Job,</hi> when he ſtunck above ground, and his own familiars loathed him, fit to ſit no where but upon a dunghill, nor to have any thing touch him but an old naſty potſheard, notwithſtanding all his foregoing lovelineſs. Such a woful thing is mans poor body. Thus the ſoul of the greateſt man that now lives, or of the choi<g ref="char:EOLhyphen"/>ceſt Saint, is confined to a <hi>poor ſorry little clay-hut,</hi> no higher uſually then two yards (if ſo high) and not one of them over. A ſhadow, a vapour, a vanity, and a kind of nothing is enough to de<g ref="char:EOLhyphen"/>ſcribe you what the ſouls earthly houſe is. It hath often been obſerved that men (as to the body) are born and dye in the night, which ſhews what a dark and cloudy peice mans body is.
+<note place="margin">Job 17.14. &amp; 19.26. &amp; 21.26. &amp; 24.20.</note> The fineſt pampered bodies are but only mortal, dying car<g ref="char:EOLhyphen"/>caſſes well fed for a few crawling ſlimy worms to domineer over and live upon in the grave. This now can but be a poor houſe for a precious ſoul. This as to the material.</p>
+            <p n="2">2. As to <hi>the nature</hi> of this houſe, it's but a Ta<g ref="char:EOLhyphen"/>bernacle, <hi>i. e.</hi> Like unto a pitiful, ragged, wea<g ref="char:EOLhyphen"/>ther-beaten, dirty Tent, pitched in the earth
+<pb n="7" facs="tcp:44727:14"/>upon a few ſtakes for a little time, ſo is mans body.
+<note place="margin">Heb. 11.9, 10.</note> This is fit for none to dwell in but Soldiers and Pilgrims, ſuch as do not reſolve for any long con<g ref="char:EOLhyphen"/>tinuance in a place. Tents (or Tabernacles, for they re both one in this place) are things that are hugged and hurried up and down, and fret and wear away every day with uſing. Oh what a ſorry thing then is the ſouls houſe in a preſent world? Like a poor moveable ſhed made up of a few ſticks and clouts? Thus when the work is finiſhed it does but amount to a decaying Tent, not a durable marble, nor Ivory Palace.</p>
+            <p n="3">3. And laſt. It is an houſe <hi>that will preſently be diſſolved;</hi> ſo in the Text: Like ſuch houſes as children, and they that have nothing elſe to do, make them of ſnow of Ice in the winter ſeaſon, which a few days or weeks will melt away, and no appearance will be left; and I may tell you that to diſſolve and melt are of the ſame ſignification: So <hi>Job</hi> ſpeaking of his body, ſays, <hi>That his ſub<g ref="char:EOLhyphen"/>ſtance did diſſolve or melt away.</hi> And the Original word in the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifies nothing leſs,
+<note place="margin">Chap. 30. in differ Tranſl.</note> if not much more. — Thus now we ſee what the ſouls houſe is in the preſent world; as to the <hi>ma<g ref="char:EOLhyphen"/>terial</hi> of which is made, that is poor earth, clay, or duſt: As to <hi>nature,</hi> when finiſhed with its beſt ornaments, no ſtately ſtructure, but a poor Tent, weather-beaten, and dirty: As to <hi>duration,</hi> not to continue long, but to be diſſolved, to diſap<g ref="char:EOLhyphen"/>pear, and be brought to a ſort of nothing. — Surely this is but an humble and mean houſe for
+<pb n="8" facs="tcp:44727:15"/>the ſouls of Saints, thoſe great and noble perſons to dwell in. — But we'l ſee</p>
+            <p>In the 2. place, what it is <hi>in the other world;</hi> and then the glory of this will utterly cloud the other. The ſecond part of my Text ſhews you what this is, <hi>v.</hi> [<hi>A building of God, an houſe not made with hands, eternal in the heavens</hi>] — Here Ile ſpeak to four things, to ſhew that this habitation and dwelling place for the ſouls of Saints is much more glori<g ref="char:EOLhyphen"/>ous and magnificent than the other.
+<note place="margin">1 Pet. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9.</note> — And here,</p>
+            <p n="1">1. Let's confider <hi>the nature</hi> of it <hi>i. e.</hi> It's a building; not a poor ſhed and hut like the other, but a very ſtately Palace, we at preſent can only ſee the remote outwork all beſpangled with glori<g ref="char:EOLhyphen"/>ous Luminaries, far beyond the moſt orient gems, and therefore that deſcription of St. <hi>John</hi> the Di<g ref="char:EOLhyphen"/>vine in <hi>Rev.</hi> 21.10. to the end, though it ſeem very great at the firſt view, yet much of it is but a dark ſhadowy reſemblance of what it really is; for this building is glory it ſelf, of which we can ſay no<g ref="char:EOLhyphen"/>thing, but ſit down admire and wonder; the greateſt ſort of mortal Orator in the world, if he came to ſpeak of this, would only ſpeak a finer ſort of nonſenſe, for <hi>Coelum non patitur Hyperbolen;</hi> the beſt deſcription of this place lies in 1 Cor. 2.9. <hi>Eye hath not ſeen, nor ear heard, neither have en<g ref="char:EOLhyphen"/>tered into the heart of man, the things which God hath prepared for them that love him.</hi> The eye hath ſeen great and ſtupendious rarities of Art and Nature; the ear hath heard exhilerating tranſporting ſounds; and the heart of man can
+<pb n="9" facs="tcp:44727:15"/>conceive of, and wiſh for, a world univerſally more rich then gold and gems, and more illuſtri<g ref="char:EOLhyphen"/>ous than the Summers Sun; and yet all theſe are nothing, when laid in the Ballance with this Build<g ref="char:EOLhyphen"/>ing that is above. If the Idolatrous Temple of <hi>Diana</hi> at <hi>Epheſus</hi> was ſo bright, that the door-keeper cryed always to them that entered into it, <hi>Take heed to your eyes.</hi> Oh what then is Heaven? It's almoſt difficult to imagine how even an im<g ref="char:EOLhyphen"/>mortal eye ſhould look within that place and live. <hi>Ovid</hi> in his <hi>Metamorphoſis</hi> having called this place <hi>Regalem Domum, &amp; Atria Nobilium,</hi> takes it as a bold attempt to tell what it is, it is ſo much tranſ<g ref="char:EOLhyphen"/>cending our ſkill to deſcribe without blemiſhing its glory.</p>
+            <p>
+               <hi>Hic locus eſt, quem, ſi verbis audacia detur Hand timeam magni dixiſſe Palatia Coeli.</hi>
+            </p>
+            <p n="2">2. We'l conſider the <hi>Architect</hi> of it; that is, who was the Builder of it; for according to him that worketh ſo uſually is the workmanſhip both in eſteem and real worth. And here,</p>
+            <p n="1">1. In the Negative, it was <hi>not man</hi> that made it; for its expreſly ſaid, <hi>Is an houſe not made with hands:</hi> ſo that it is a work beyond humane. If man had made it, it might have been matched in time by ſome of the wonders of the world, as by the foreſaid <hi>Diana</hi>'s Temple, <hi>Manſolus</hi> Tomb, or ſome other Prodigies of Induſtry and Oſtentation, which have had many years, thouſands of men all that time, and millions of mony laid out to raiſe them in: but this houſe is not of mans making. But,</p>
+            <pb n="10" facs="tcp:44727:16"/>
+            <p n="2">2. In the Affirmative, <hi>It's a Building of God:</hi> A ſtructure raiſed by him who is wonderful in counſel, and excellent in working; him that made Sun and Moon, and created Angels and glorious ſpirits: Oh what a ſublime and glorious place muſt this needs be! <hi>Solomon</hi> was a wiſe man, and therefore the Temple he made was a wonderful thing; but a greater than <hi>Solomon</hi> is here, and therefore the work muſt needs be much more great and ſtupendious. Oh how ſplendid then is this Habitation of Souls! Oh the depth of the riches both of the wiſdom and knowledge of God! How unſearchable and paſt finding out is this building of God, which he has prepared as an habitation for the ſouls of his Saints?</p>
+            <p n="3">3. Let us conſider it as to its durableneſs; for that is the next thing in our words, to wit, that it is <hi>[eternal]: A building of God not made with hands, eternal.</hi> The body is far from being eter<g ref="char:EOLhyphen"/>nal, as I have ſhew'd you; and Houſes in this world,
+<note place="margin">
+                  <hi>Gutta cavat la<g ref="char:EOLhyphen"/>pidem,</hi> &amp;c.</note> though they be made of flint, yet wear away with time: but this houſe in the ſuperiour world is <hi>endleſs-endleſs!</hi> And 'tis here, as not in all other things, the longer the better, the length is the happineſs. Eternity in this dwelling of ſouls is an infinite endleſs progreſs and duration of moſt glorious happineſs: but we had beſt let this alone till we come there, for it will be difficult to ſpeak pertinently of it till then. Oh who would value that which hath an end, unleſs it be as it leads to that which hath no end? all things muſt needs be
+<pb n="11" facs="tcp:44727:16"/>as dung and droſs that are of a periſhing nature. What a matchleſs wonder, and durable miracle is eternity, that ſwallows up all our <hi>Chronology</hi> and <hi>Arithmetick?</hi> It was our miſery as to the worldly Paradiſe, that there was a way out of it, but none in again; but it's our happineſs in glory that there is a way in, but none out again.</p>
+            <p n="4">4. And Laſtly. Let's conſider <hi>the Country</hi> where this glorious dwelling lies, and that is, <hi>[in the Hea<g ref="char:EOLhyphen"/>vens] A building of God, an houſe not made with hands, eternal in the heavens.</hi> Some Countries have vaſt trade, others moſt fruitful ſoil: Some have moſt healthfull and pleaſing air, and others moſt famous Arts; But what are all theſe to Heaven, but a company of pleaſing appearances repreſented in a dream? Oh 'tis Heaven that is all alone, and all things elſe are nothing without it! Who would not deſire an houſe, where all deſirables that can be thought o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, are freely and fully to be enjoyed? Why, this houſe only ſtands in Heaven: Here is no man ſick, no man poor, no man reproached, no man hath any ailment at all: This is the excelling Country indeed! Who would not have a dwelling here? Well, here all true Saints muſt be Inhabitants.</p>
+            <p>Now, Is it not fully apparent, That the ſouls of true Saints have a more glorious and magnifi<g ref="char:EOLhyphen"/>cent habitation in the other world, ſeeing I have ſhew'd you what they both are? And does not this which is in heaven infinitely out-ſhine that which is here on earth?</p>
+            <pb n="12" facs="tcp:44727:17"/>
+            <p>Thus I have illuſtrated the truth of the Doct<g ref="char:EOLhyphen"/>rine by a little gloſſing upon the words of the Text. My next thing is,</p>
+            <p n="2">2. To Apply this Doctrine, and to bring it into life and uſe, in four Exhortations.</p>
+            <p n="1">1. If it be thus that the ſouls of true Saints have a more glorious and magnificent Habitation in the other world, then, <hi>Let the ſouls of true Saints be wained to the preſent habitations in which they dwell in this lower World.</hi> Who would be fond of an old thatched crazy Cottage, of an Houſe made of ſuch periſhing materials, that waſh away with every ſtorm, ſuch an one as if it had not dayly new props to ſhoar it up, would preſently drop down into the dirt; and when all is done that can be done, down it will fall preſently. It's much like a ſuit of cloathes that wear gradually away every day, and muſt in a little time be put off and laid aſide, or elſe will piece by piece fall off the mans back that wears them; to this the Apoſtle alludes, when he tells of <hi>putting off this Tabernacle,</hi> and that ſhortly, 2<g ref="char:punc">▪</g> 
+               <hi>Pet.</hi> 1.14. And ſo doth the Pſal<g ref="char:EOLhyphen"/>miſt,
+<note place="margin">Pſal. 102.26.</note> when he ſaith, <hi>All of them wax old like a garment, and as a vesture they ſhall be changed.</hi> And <hi>Paul</hi> tells you of the world in general,
+<note place="margin">1 Cor. 7.31.</note> 
+               <hi>That the faſhion of it paſſeth away.</hi> Oh what a cooling character is that of Saint <hi>James</hi> concerning this clay-houſe, in which the ſoul dwells at preſent, when he ſaith, <hi>What is it?</hi> and anſwers his own queſtion, ſaying, <hi>Its even a vapour that appeareth for a little time, and then vaniſheth away.</hi> Mans
+<pb n="13" facs="tcp:44727:17"/>body is often compared to a flower that flouriſh<g ref="char:EOLhyphen"/>eth in the morning,
+<note place="margin">Job 14.1, 2. Pſal. 103.14, 15.16. 1 Pet. 1.24.</note> and is very brave and illuſtri<g ref="char:EOLhyphen"/>ous, but before night is cut down and withered away unto a very obſcure or cloudy appearance. Who would not now be weaned to the Souls pre<g ref="char:EOLhyphen"/>ſent lower houſe? And the rather becauſe if we be Saints, there is one that is glorious and magnifi<g ref="char:EOLhyphen"/>cent behind, in an higher and more happy Re<g ref="char:EOLhyphen"/>gion.
+<note place="margin">2 Cor. 5.8.</note> Who would not be weaned to the thing they muſt moſt certainly and ſuddenly leave? and ſuch a thing too, as within a very little while will ſo rot and ſtink, that thoſe who were once moſt enamoured upon it, will be as importunate (as once <hi>Abraham</hi> was) to bury their dead out of their ſight. Ah poor Bodies! Who would humour and pamper ſuch pitiful vile <hi>carkaſſes</hi> to the wronging of their intereſt in that more glorious <hi>building of God</hi> in Heaven? Thus be weaned to the ſouls preſent Habitation, and that in ſuch a manner, as the gracious <hi>Paul</hi> once was, when he kept under the body and brought it into ſubject<g ref="char:EOLhyphen"/>ion, leſt,
+<note place="margin">1 Cor. 9.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> notwithſtanding his holy Profeſſion and ſervices, he himſelf ſhould be a caſt away. How brave was that of <hi>Seneca?</hi> How manlike? And how divine? <hi>Major ſum, &amp; ad majora natus, quam ut ſim mancipium corporis mei.</hi>
+            </p>
+            <p n="2">2. If it be thus, that there is ſuch a more glori<g ref="char:EOLhyphen"/>ous and magnificent habitation for ſouls in the other world, and that our ſouls muſt within a little while be gone out of theſe poor clay-huts in which they now dwell, <hi>Then let us do all we can to
+<pb n="14" facs="tcp:44727:18"/>get a title to that more glorious and magnificent ha<g ref="char:EOLhyphen"/>bitation.</hi> It is ſuch an Houſe as all men that will may purchaſe, and yet every man that will may have a full title to it: Now, the Doctrine fairly intimates how this Houſe not made with hands, eternal in the heavens may be got, <hi>viz.</hi> By be<g ref="char:EOLhyphen"/>coming true Saints: We know the Saints great Charter runs for both worlds, 1 Cor. 3.21, 22, 23. <hi>All things are yours, whether things preſent or to come.</hi> The firſt Chapter and ſecond Verſe will tell you that this was ſpoken to Saints: So will the firſt verſe of the ſecond Epiſtle tell you that the words of my Text are ſpoken by or of the ſame happy ſort of men. 1 <hi>Tim.</hi> 4.8. Godlineſs hath the promiſe of the life that now is, and of that which is to come. This glorious Habitation is promiſed and prepared for Saints by Chriſt him<g ref="char:EOLhyphen"/>ſelf, John 14.2, 3. <hi>In my Fathers houſe are many manſions, I go to prepare a place for you; and I will come again and receive you unto my ſelf, that where I am there ye may be alſo.</hi> Well, may the ſerious ſoul ſay, Is it poſſible to get a title here? Then I'le do as the wiſe Merchant did, <hi>viz.</hi> Sell all that ever I have to get this glorious Habitation made up of matchleſs <hi>Gems,</hi> of endleſs value and worth; an Houſe cut forth of one great <hi>Diamond,</hi> all round beſet and walled with <hi>Gold</hi> and more <hi>ex<g ref="char:EOLhyphen"/>celling things,</hi> is but an obſcure Metaphor of what it is. The way to get a Title here you ſee is to become Saints, and how to be ſuch the Goſpel gives you many great <hi>Characters:</hi> As, it tells us,
+<pb n="15" facs="tcp:44727:18"/>
+               <hi>That ſuch an one has laid aſide the corrupt nature and life; and is got into,
+<note place="margin">Ephe. 4.22, <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Rom 8.1.</note> and goes on in that nature and life which is divine.</hi> If meer innocent mortal na<g ref="char:EOLhyphen"/>ture, becauſe mortal, moſt not, cannot, dwell in Heaven, as is affirmed in ſacred Writ, then not corrupted nature, that which is morally ſtained and defiled: 1 <hi>Cor.</hi> 15.48, 49, 50, 53. <hi>Pſal.</hi> 5.4, 5. <hi>Revel.</hi> 21.27. The Saint is beſt known <hi>by his progreſſive durable manner of living, not by his notional Principles, or pretences unto Chriſt.</hi>
+               <note place="margin">Acts 12.13. &amp; 14.22 &amp; 2.23, 24.</note> He is <hi>one that hath a full purpoſe of heart about theſe better things,</hi> he does not fluctuate, but is fixed upon them, tide life or death. <hi>He hath a right and a full mind for God.</hi> Others muſt know us by our lives, but we may beſt of all know our ſelves by our minds, by obſerving which way our wills and affections go; for men may practiſe holy things for company, or ſome other ſuch periſhing prin<g ref="char:EOLhyphen"/>ciples, but they cannot <hi>will</hi> and <hi>affect</hi> upon theſe: So that the man is what his mind is. But I muſt not be particular; if you would dwell in this glorious building when turned out of door from the houſe of clay, then you muſt become glorious perſons: but read at your leiſure <hi>Pſalm</hi> 15. Well,
+<note place="margin">Pſal. 5. or 24.</note> get a title to this magnificent houſe in the other world, you ſee the way of doing it; and you muſt be gone hence preſently, and when you are gone, there is but two great houſes that all men go unto to dwell in for ever: The one is <hi>an horrible habitation of Devils and damned ſpirits,</hi> full of all manner of unalterable wo and miſery, and to this
+<pb n="16" facs="tcp:44727:19"/>you are born heirs, and have a faſt title; Oh do all that ever you can to cut off this Entail! And to get Title to that <hi>moſt pleaſing raviſhing Habitation that is above,</hi> unto which you have no right by nature, but may obtain a full right by entring upon, and continuing in the gracious ſtate and life. Do not then periſh when the way of ſafety and happineſs is ſo plainly ſet before you.</p>
+            <p n="3">3. If it be thus, that there is ſuch a glorious habitation for the ſouls of Saints to dwell in when in the other world, <hi>Then let this incourage Saints while they continue in this world against all the ail<g ref="char:EOLhyphen"/>ments and miſeries that attend the body.</hi> What makes the matter, though ſtormes beat againſt the crazy walls of the ſouls preſent houſe, or though it be about to fall into the duſt; for you, if true Saints, have a magnificent houſe in the other world, will make amends for all? It's certain the Apoſtle brings in my Text upon ſuch an account as this, if you compare it with the foregoing Chapter, <hi>ver.</hi> 1, 8, 9, 11, 16, 17, 18. And then my Text comes in, as an high encouragement; As, againſt <hi>tireſome and fretting induſtry and labours;</hi> Heaven is a reſt,
+<note place="margin">Heb. 4 9. Rev. 14.13</note> and there is a ceſſation from la<g ref="char:EOLhyphen"/>bour; all men that get thither ſhall have an happy maintenance without any toil or ſweat at all. Againſt <hi>ſickneſſes and pains;</hi> this ſtinging torment<g ref="char:EOLhyphen"/>ing gout, ſtone, and the like, ſhall not laſt al<g ref="char:EOLhyphen"/>ways, there is a dwelling behind, where theſe ſhall not approach; an houſe (ſuch an one was never heard of beſides) as keeps out all ailments,
+<pb n="17" facs="tcp:44727:19"/>and is ever full of health and happineſs: no groan, no ſigh, is heard in this place; not one tear ap<g ref="char:EOLhyphen"/>pearing in the eye; there is nothing can dwell in it but muſt ſmile for ever and ever. <hi>Revel.</hi> 21.4. God ſhall wipe away all tears from their eyes (that get thither) there ſhall be no more ſorrow nor crying, neither ſhall there be any more pain, <hi>&amp;c.</hi> Againſt <hi>blemiſhes and decaies of body,</hi> becauſe Hea<g ref="char:EOLhyphen"/>ven frees the ſoul from thoſe ailements its ſubject to in this afflictive world; there will be no blind<g ref="char:EOLhyphen"/>neſs, nor lameneſs, nor defective, nor blemiſhed member or part; all things there ſhall be eternally ſound and perfect, the firſt entrance into that place doth render all things juvenile, freſh and active: The Transfiguration of Chriſt, when his face did ſhine as the Sun, and his raiment was white as the light; was ſome type of what Hea<g ref="char:EOLhyphen"/>ven makes all thoſe that come there. Againſt <hi>Scoffs and reproaches, and ill uſage for ſerving God;</hi> there will be no <hi>Iſhmael</hi> to flout at the Son of the promiſe; no <hi>Doeg</hi> to complain to higher Powers, of the innocent ſervants of God; no <hi>Saul</hi> to per<g ref="char:EOLhyphen"/>ſecute them from place to place, and to hurry them into Priſons and death; if we but once get into heaven, then we are quite beyond the reach of what evil men and Devils can do. And laſtly, Againſt <hi>Death it ſelf;</hi> Oh how dreadful would this be if there was not a moſt happy life that fol<g ref="char:EOLhyphen"/>lows it! But death is but the dark paſſage into a moſt pleaſing happineſs: or, it is the taking down the old crazy ſhed where the ſoul dwells at pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="18" facs="tcp:44727:20"/>that the unwillingneſs may be taken away, and it may be removed into that moſt magnificent houſe in glory: God's put to take down the ſtakes of the preſent Tabernacle to make us willing; and who would not become willing and encou<g ref="char:EOLhyphen"/>rage themſelves to leave the afflicted body, and go and ſee what that moſt glorious habitation is that is above. But,</p>
+            <p n="4">4. And laſtly. If there be ſuch a moſt excel<g ref="char:EOLhyphen"/>ling Habitation for the ſoul, <hi>then deſire to be in it.</hi> This is what <hi>Paul</hi> breaths after, <hi>ver.</hi> 2, 4. follow<g ref="char:EOLhyphen"/>ing my Text, <hi>We groan earneſtly to be in our houſe in the heavens,</hi> ſaith he. Was ever weary or ſick child unwilling to put off his clothes, and go to lye in his deareſt fathers boſom. Oh the unwil<g ref="char:EOLhyphen"/>lingeſs there is in us all to be gone! Why pray we <hi>Thy Kingdom come,</hi> and yet have no mind to be hailed out of this dirty houſe of bondage? Why? Alas, the reaſon is, becauſe not weary of ſin; not ſenſible of the vanity of the creature: Oh how defective are our faith, love, and longings after Heaven? How wedded to the world, even when going out of it? Alas if you would not dye and go to Heaven,
+<note place="margin">2 Cor. 5.6, 8. Phil. 1.23. &amp; 3.20, 21. Heb. 11.9, 10, 13, 14, 16. &amp; 13.13, 14. &amp; 4.9, 11.</note> what would you have more than beaſts and Epicures? If once truly deſirous to be gone, then the fear of death is gone.</p>
+            <p>Say then to your ſouls, Ah poor and precious ſouls, Awake your ſelves, looſe your ſelves from earth and fleſh, and make on with all your might towards theſe eternal manſions! What? places ſo ſweet, ſo excelling, where we ſhall live in all
+<pb n="19" facs="tcp:44727:20"/>manner of joys, without the leaſt heart-qualme<g ref="char:EOLhyphen"/>ing fear of ever leaving them! Oh what ſweet words are theſe! [<hi>A building of God, not made with hands, eternal in the heavens</hi>] able to put the ſerious ſoul (that hath the title and hope of enjoy<g ref="char:EOLhyphen"/>ing what they propoſe) into a rapture and tranſ<g ref="char:EOLhyphen"/>port of deſire, and to look out at her windows, and ſay, Oh why are his chariot wheels ſo long a coming? When ſhall the day dawn, and ſhadows flee away? Why do theſe clay-walls interpoſe between me and that glorious habitation that is above?</p>
+            <p>Thus I have done with my <hi>firſt Text,</hi> and have but one word more to ſay by way of uſe to unite the <hi>firſt and ſecond together;</hi> thus,</p>
+            <p>If it be ſo, That the ſouls of true Saints have a more glorious and magnificent habitation in the other world, then this ſhews us the probable hap<g ref="char:EOLhyphen"/>pineſs of the more noble part of this Honourable Lady, whoſe poor clay-houſe lies here before us, that now muſt make worms its companions, and moulder away to duſt; for I would not queſtion her intereſt in Saint-ſhip, and ſo conſequently the triumphing of her ſoul in endleſs happineſs, <hi>This building of God, not made with hands, eternal in the heavens.</hi>
+            </p>
+            <p>I come now to my <hi>ſecond Text,</hi> which is to give you ſome account of this elect Lady whoſe Interment we attend: And what I ſhall ſay, I'le put under three Heads, of <hi>Nature, Art,</hi> and <hi>Grace.</hi>
+            </p>
+            <pb n="20" facs="tcp:44727:21"/>
+            <p n="1">1. Of <hi>Nature;</hi> Here her Priviledges and ac<g ref="char:EOLhyphen"/>compliſhments were conſiderable. If we conſider Her,</p>
+            <p n="1">1. As to <hi>Original,</hi> ſhe was an happy Branch of one of the moſt Noble and Illuſtrious Families in <hi>England,</hi> whether you look at Deſcent, Degree, or Actings: As to Deſcent, of a long tract of time in the world, among the oldeſt our preſent Nobility: As to Degree, high born, I can ſay, and ſay truly, ſhe was <hi>Atavis edita Regibus,</hi> really ally'd to Kings and Princes: As to Actings, to paſs over the great and Heroick performances both in matters Civil and Millitary done by her Progeni<g ref="char:EOLhyphen"/>tors in their native ſoil,
+<note place="margin">See <hi>Graſton, Speed,</hi> S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Rich. Baker,</hi> in <hi>Henry</hi> the 6th. <hi>Jo<g ref="char:EOLhyphen"/>hannes Talbotus, Comes Salopi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſis, vir cla<g ref="char:EOLhyphen"/>riſſimus, fortiſſi<g ref="char:EOLhyphen"/>muſque, cujus virtute populi Anglicani no<g ref="char:EOLhyphen"/>men maxime Gallis ſor mido<g ref="char:EOLhyphen"/>loſum extiterat.</hi> Polid. Virg. Ang. Hiſt. l. 23.</note> the <hi>Talbots</hi> Name conti<g ref="char:EOLhyphen"/>nues till this day ſo great in <hi>France</hi> for long and numerous <hi>Conqueſts</hi> and <hi>Triumphs</hi> in that King<g ref="char:EOLhyphen"/>dom, that they uſe to huſh diſturbances into quiet and compoſure by the mention of it. I might here give you a true and large Hiſtory, but I muſt re<g ref="char:EOLhyphen"/>member that time will but allow me to give you brief notices of what takes up and merits conſi<g ref="char:EOLhyphen"/>derable Volumnes. To be the Sons or children of Nobles is honourary, (even in Scripture Dia<g ref="char:EOLhyphen"/>lect, which uſeth to overlook ſuch things) eſpe<g ref="char:EOLhyphen"/>cially when found in the way of righteouſneſs, as here we have it.</p>
+            <p n="2">2. As to <hi>Feature and Activity of Body;</hi> ſhe was in <hi>the firſt of theſe</hi> more conſiderable even to her dying day then moſt of her date in the world, which ſhewed what ſhe was in the Summer of her age, being what I have ſaid in the deepeſt part
+<pb n="21" facs="tcp:44727:21"/>of winter days; I the rather mention this becauſe of that old, and in this place true, ſaying, <hi>Gra<g ref="char:EOLhyphen"/>tior è pulchro veniens è corpore virtus.</hi> In <hi>the latter of theſe, Activity of Body,</hi> ſhe was much above ordinary, being very lively and ſtirring to her very cloſe of time; being able to walk with quick<g ref="char:EOLhyphen"/>neſs and durableneſs without the help of hand or ſtaff: Something of this nature is recorded to honour the memory of <hi>Moſes</hi> after his death, <hi>Deut.</hi> 34.7. cloſe.</p>
+            <p n="3">3. As to <hi>Natural Parts:</hi> She was quick, viva<g ref="char:EOLhyphen"/>cious and comprehenſive in judging of things even to the laſt hours of life: Though ſhe might be conſiderably paſt fourſcore years of Age, yet could diſcourſe as rationally the day ſhe died on, as others in the flouriſh of age and life: which was not a lightning before her death, for forerun<g ref="char:EOLhyphen"/>ning days were the ſame. (As Rationality raiſeth men above Beaſts, ſo the higher any are in it, the neerer they are to Angels.) Theſe Excellencies are admirably beyond thoſe imaginary ones of ex<g ref="char:EOLhyphen"/>ternal honours and riches; and ſo ſome of the old poor Philoſophers did wonderfully tranſcend the Conquerours and Emperours of their times.</p>
+            <p>Thus in a few words for her Priviledges and ac<g ref="char:EOLhyphen"/>compliſhments as to Nature.</p>
+            <p n="2">2. We'l conſider them as to <hi>Art:</hi> Her Lady<g ref="char:EOLhyphen"/>ſhip was the owner of no mean Acquirements.</p>
+            <p n="1">1. In General; ſhe was well skill'd in all, or the moſt, things that referr'd to her <hi>Sex, Degree,</hi> and <hi>Place,</hi> which referred to numerous things,
+<pb n="22" facs="tcp:44727:22"/>and ſo required ſuch attainments, which ſhe had in an high meaſure arrived at. But,</p>
+            <p n="2">2. I'le ſpeak to ſome things particularly; but with brevity, that I may have leave to ſay the more to the laſt General Head; Her Ladyſhips Acquirements did appear in theſe particulars.</p>
+            <p n="1">1. She was not without skill in <hi>ſome languages more than her own native Tongue;</hi> as, I have often made remarks upon her knowledge in <hi>Latine</hi> and <hi>French.</hi>
+            </p>
+            <p n="2">2. She was conſiderably skill'd <hi>in Divinity and Hiſtory;</hi> In the <hi>firſt,</hi> not only knowing practical things, but alſo very intelligent in matters notio<g ref="char:EOLhyphen"/>nal and polemical. In the <hi>ſecond,</hi> ſhe had a good acquaintance with the Jewiſh, Roman, and Evan<g ref="char:EOLhyphen"/>gelical Hiſtories in their older days. As to both Divinity and Hiſtory, I can truly ſay, That I have obſerved many of her Sex talk only with more confidence, but leſs skill, in either than her ſelf.</p>
+            <p n="3">3. She was one that well underſtood how to <hi>manage her concerns diſtant and near to the very laſt of her time, without even ſo much as ſmall miſcar<g ref="char:EOLhyphen"/>riages.</hi> I believe few that ever lived to ſuch a number of days was ever in theſe things more ex<g ref="char:EOLhyphen"/>act than her Ladyſhip.</p>
+            <p n="4">4. And Laſtly. She was <hi>of a very obligeing de<g ref="char:EOLhyphen"/>portment to the utmoſt date of life;</hi> In this ſhe was a Critick, few could go beyond her: with humble courteſie in carriage and words ſhe would have obliged any thing ſhe converſed with; for as ſhe was the owner of activity of body, ſo of perti<g ref="char:EOLhyphen"/>nent
+<pb n="23" facs="tcp:44727:22"/>and taking language even to the cloſe of life. which ſhe uſed to imploy to oblige her Viſitors and Friends, yea, all men with. This piece of Humanity (or candour) is a very lovely thing,
+<note place="margin">Gal. 5.22. with many o<g ref="char:EOLhyphen"/>ther places.</note> much recommended to the world by the Goſpel Divinity.</p>
+            <p n="3">3. As to <hi>Grace;</hi> Here I have ſuch things, and ſo many to ſay, as will highly add to the memory of this Elect Lady: Without this all the reſt had been periſhing accompliſhments, only Ornaments in meer Humanity. Some notable beyond-Sea<g ref="char:EOLhyphen"/>men have nervouſly attempted to prove, <hi>That it is only Religion, and not meer Reaſon, that diſſer<g ref="char:EOLhyphen"/>enceth men from Beaſts.</hi>
+            </p>
+            <p>Well, —1. In General.</p>
+            <p>This Honourable Lady was <hi>of an holy life;</hi> ſhe uſed to affirme, an holy life and graces of the Goſpel to be more dignifying then Birth, Eſtate, or great and ſhining worldly Titles: and would uſe to ſay, That what <hi>Paul</hi> ſays, was a great truth upon her long experience, 1. <hi>Cor.</hi> 1.26. <hi>Not many wiſemen after the fleſh, not many mighty, not many Noble are called.</hi> I have heard her alſo af<g ref="char:EOLhyphen"/>firme, that the new birth deſerves to be (as it truly is) the greateſt, John 1.13. <hi>Born, not of blood, nor of the will of the fleſh, nor of the will of man, but of God.</hi> Bleſſed be God this pious Lady was not like a fair houſe with an ill Inhabitant, but had a noble <hi>ſoul</hi> inhabited all her other excel<g ref="char:EOLhyphen"/>lencies. Though many other things raiſed her to an high pitch of greatneſs; yet none did ſo
+<pb n="24" facs="tcp:44727:23"/>much digniſie her as her Religion; and that which made it ſplendid was its regularity, univerſality, and conſtancy. But,</p>
+            <p>—2. To be particular:</p>
+            <p>Her <hi>Religion</hi> or <hi>Grace</hi> appeared,</p>
+            <p n="1">1. <hi>In loving it in others;</hi> In loving thoſe that were of a good and gracious life; Saint <hi>John</hi> makes this the infallible Teſtimony of the graci<g ref="char:EOLhyphen"/>ous ſtate, 1 John 3.14. <hi>We know that we have paſſed from death to life, becauſe we love the Bre<g ref="char:EOLhyphen"/>thren; he that loveth not his brother abideth in death.</hi>
+               <note place="margin">Noſcitur exſocio, qui nondignoſci<g ref="char:EOLhyphen"/>turex ſe.</note> She could not at all be at eaſe in ill com<g ref="char:EOLhyphen"/>pany; ſhe might in a good meaſure ſay as the holy Pſalmiſt, <hi>The Saints, the excellent in the earth, in whom is all my delight,</hi> Pſal. 16.3. She loved it not only in thoſe that lived in her Family (choo<g ref="char:EOLhyphen"/>ſing her ſervants by this ſtandard) but alſo in meer ſtrangers, which ſhewed ſhe loved it for its own ſake.</p>
+            <p n="2">2. <hi>In indeavouring to advance it in others;</hi> not by meer conference and counſel, for theſe were the cheapeſt ſort of indeavours ſhe uſed; but alſo by many Letters writ with her own hands, perti<g ref="char:EOLhyphen"/>nent and nervous for the advancement of holi<g ref="char:EOLhyphen"/>neſs; and further alſo, ſhe uſed often to give Books and ſometimes mony to draw on to a ſerious life: but this will be farther illuſtrated in the next.</p>
+            <p n="3">3. <hi>In her Charity to ſouls;</hi> As I need men<g ref="char:EOLhyphen"/>tion no more inſtances for this, but her large contribution to the converſion of the poor <hi>Indians</hi>
+               <pb n="25" facs="tcp:44727:23"/>in <hi>America,</hi> continued year by year for many years till this ſhe dyed in; of which, bleſſed be God, ſhe had a yearly account to her great re<g ref="char:EOLhyphen"/>freſhment and joy.</p>
+            <p n="4">4. <hi>In her love to be invited to holy ſervices;</hi> This was ſo durable and lively, that ſhe might truly ſay without oſtentation or vanity, as <hi>David</hi> once did, Pſalm 122.1. <hi>I was glad when they ſaid unto me, let us go into the houſe of the Lord.</hi> She uſed to be as eager to go to holy Ordinances, as others are, or can be, to go to their worldly vanities.</p>
+            <p n="5">5. <hi>In her Reverence to holy things, or Perſons;</hi> As to God and Chriſt even in their very Names, which ſhe uſed to mention with a more than ordinary dread. She uſed to deport her ſelf with abundant gravity in the Houſe of Prayer, and with high reſpectfulneſs to the loweſt of the Miniſtry, if induſtrious and ſerious men; I have obſerved her alwaies more excellent in this than others of the loweſt Degree.</p>
+            <p n="6">6. <hi>In her Diſcourſe,
+<note place="margin">Loquere u' <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e videam.</note> which always dropped as the honey Comb;</hi> It was alwaies favoury and ſeaſoned with ſalt, ſo as to miniſter grace to the Hearers, according to the Apoſtles advice con<g ref="char:EOLhyphen"/>cerning it.</p>
+            <p>Thus I have given you ſome brief hints of things, time not allowing further.</p>
+            <p>I have not told you of her Ladiſhips conſtant giving upon Charity; beſides her known Alms-Houſes
+<pb n="26" facs="tcp:44727:24"/>in three Counties; and many other ways, ſometimes large ſummes; and now gone ſhe hath leſt 40 <hi>l.</hi> a year, for an hundred years time want<g ref="char:EOLhyphen"/>ing only one.</p>
+            <p>Nor have I told you of this Ladies conſtant De<g ref="char:EOLhyphen"/>votion, <hi>In a dayly reading of Scripture and other choice Books, beſides retired Prayers twice every day;</hi> and in theſe things ſhe was conſtant to the cloſe of life.</p>
+            <p>Thus you have ſeen ſomething of her Life; I'le ſay a little to her Ladyſhips dying ſtate, and then I'le cloſe: Here you may ſee ſome noble Teſti<g ref="char:EOLhyphen"/>monies of her Grace or Religion:</p>
+            <p n="1">1. <hi>In her fervour to do good to the laſt of life:</hi> which ſhe highly breathed after, the day ſhe dyed on; deſireing to do ſtill more for God.</p>
+            <p n="2">2. <hi>In her warm and bleeding ſenſe of the low eſtate of Religion and its owners in the world.</hi> 1 <hi>Sam.</hi> 4.13. Her Heart trembled for the Ark of God.</p>
+            <p n="3">3. <hi>In her ſubmiſſion to the divine will and diſpo<g ref="char:EOLhyphen"/>ſal;</hi> ſhe freely offered up her ſelf to her great Lord and Owner, to do what he would with her.</p>
+            <p n="4">4. <hi>In her peace of ſoul.</hi> I have this to ſay of both theſe, That though I had often before ſeen her in danger of dying, yet I never ſaw her in ſuch a ſubmiſs and peacefull frame of ſoul; I might really ſay, that I ſaw that one Scripture, <hi>Pſal.</hi> 37.37. made plain and true, <hi>Mark the per<g ref="char:EOLhyphen"/>fect man, and behold the upright, for the end of that man is peace.</hi>
+            </p>
+            <pb n="27" facs="tcp:44727:24"/>
+            <p n="5">5. <hi>In her Faith;</hi> commending Chriſt as the higheſt and moſt proper Cordial in the fainting hour; which were ſome of the laſt words ſhe ſpake before ſhe dyed.</p>
+            <p n="6">6. <hi>In ſolemn Prayers;</hi> In this holy Duty ſhe ſolemnly gave up her ſoul to God.</p>
+            <p>Now may we not ſay as Luk. 10.42. <hi>Mary hath choſen that good part, which ſhall not be taken away from her.</hi> The <hi>Jews</hi> at this day look upon <hi>women</hi> as of a lower Creation, and ſuffer them not to enter into their <hi>Synagogues:</hi> So the <hi>Turks</hi> make no reckoning of the Religion of women; but we ſee by this inſtance that they may excell. Let it be obſerved alſo that in the dayes of our deareſt Lords corporal converſe here on earth, three of his moſt thorow-followers were <hi>women,</hi> and all of the ſame <hi>Name</hi> with our Honourable Lady, <hi>viz.</hi> the <hi>Virgin, Magdalen,</hi> and <hi>Martha</hi>'s Siſter. We have many other inſtances of famous women in the Goſpel, as, of <hi>Elizabeth,</hi> walking in all the commandments of God blameleſs: Of <hi>Dorcas,</hi> fruitful in the works of Charity and love: Of <hi>Priſcilla,</hi> who was learned and skilled in the Goſ<g ref="char:EOLhyphen"/>pel Divinity: Of <hi>Lois</hi> and <hi>Eunice,</hi> excellent in unfained Faith: Of <hi>Lydia,</hi> one whoſe heart was notably opened to entertain the things of God; with many others much commended in the New Teſtament for excelling Perſons: Something of what was in all theſe might be found in this Lady I have been diſcourſing on. — Now, what ſhould
+<pb n="28" facs="tcp:44727:25"/>I ſay, but as once <hi>Seneca, Non omne tempus Catones parit,</hi> &amp;c. Every day brings forth common Per<g ref="char:EOLhyphen"/>ſons, but would to God that every year, nay, every 10. or 20. years, would but bring us ſuch a Lady, to live to ſuch an age.</p>
+            <p>But you'l ſay, Had ſhe no failings? Yes, I grant ſhe was not without them: But, bleſſed be God, what I have ſaid was the main of her Life, the o<g ref="char:EOLhyphen"/>ther by the by: To be without unallowed fail<g ref="char:EOLhyphen"/>ings,
+<note place="margin">1 Cor. 13.12. &amp; 15.54.</note> would be to be without mortality. I queſtion not but many great Perſons much applauded have not merited half of what this Lady did: I am ſure I may put her in the Ballance with thouſands of her Rank,
+<note place="margin">Prov. ult. 29.</note> and ſay, <hi>Many Daughters have done vertuouſly, but ſhe excelled them all.</hi>
+            </p>
+            <closer>Soli Deo Gloria.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
